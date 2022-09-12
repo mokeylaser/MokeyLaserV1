@@ -22,3 +22,4 @@ Here is the list of purchased parts:
 	Hex Nut: Plain, 18-8, Stainless Steel, M5-0.80 Thread (pack of 50)	$1.20	Grainger	https://www.grainger.com/product/22YK31
 	Grainger Total	$19.02		
 	Grand Total	$402.61		
+![MokeyLaser_V1_Assembly_2022-Sep-06_03-15-41PM](https://user-images.githubusercontent.com/112953405/189668974-6a97e5fa-2198-4392-a62f-2167ebe6190b.jpg)
