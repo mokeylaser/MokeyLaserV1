@@ -1,5 +1,8 @@
 # MokeyLaserV1
 The files needed to build MokeyLaser V1, including 3D models
+
+NOTE: Most lasers, including those shown in my videos, are capable of severely damaging or blinding human eyes and burning or damaging human skin. Any individual working with these devices must be aware of these laser safety issues and take appropriate measures to protect both themselves and others. Read and follow the manufacturer's safety guidelines for your laser. I am NOT responsible for any damage or injury to yourself or any other person resulting from the use, assembly, or operation of any device built from or inspired by my designs. 
+
 Here is the list of purchased parts:
 	2M Motor Connecting Cables (pack of 4)	$12.59	Amazon	https://www.amazon.com/dp/B07SLPLPL2?psc=1&ref=ppx_yo2ov_dt_b_product_details
 	T-Nuts, 240 Pieces, 2020, M3 M4 M5	$9.98	Amazon	https://www.amazon.com/dp/B08CHJMWP5?psc=1&ref=ppx_yo2ov_dt_b_product_details
